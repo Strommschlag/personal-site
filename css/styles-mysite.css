@@ -1,0 +1,167 @@
+
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+    font-size: 100%;
+}
+
+.code{
+    border-radius: 25%;
+    float: left;
+    margin-right: 30px;
+    
+}
+.trading{
+    border-radius: 25%;
+    float: right;
+    margin-left: 30px;
+}
+
+.top-container{
+    background-color: #041C32;
+    position: relative;
+    padding-top: 100px;
+}
+
+.middle-container{
+    background-color: #04293A;
+    position: relative;
+    padding-top: 70px;
+    margin-top: -20px;
+    margin-bottom: -36px;
+}
+
+.bottom-container{
+    position: absolute;
+    background-color: #ECB365;
+    margin-bottom: 0;
+    text-align: center;
+    width: 100%;
+    padding-top: 35px;
+}
+
+.second-header{
+    font-family: 'Montserra';
+    font-size: 2.5rem;
+    color: aliceblue;
+}
+
+h1{
+    color: aliceblue;
+    margin: 50px auto 0 auto;
+    text-align: center;
+    font-family: 'Sacramento';
+    font-size: 5.625rem;
+}
+h2{
+    font-family: 'Montserra';
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #ECB365;
+}
+h3{
+    font-family: 'Montserra';
+    color: #ECB365;
+    font-size: 2rem;
+    font-weight: normal;
+}
+h4{
+    color: aliceblue;
+}
+
+.top-cloud{
+    position: absolute;
+    right: 600px;
+    top: 50px;
+}
+
+.bottom-cloud{
+    position: absolute;
+    left: 600px;
+}
+
+.mountain{
+    margin-bottom: -5px;
+}
+
+
+.skill-row{
+    width: 750px;
+    height: 160px;
+    margin:  100px auto 100px auto ;
+
+}
+
+.my-skills{
+    font-family: 'Montserra';
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #ECB365;
+}
+
+.hi{
+    font-family: 'Montserra';
+    font-size: 2.5rem;
+    font-weight: normal;
+    color: #ECB365;
+}
+
+.skill-text-code{
+    text-align: left;
+    line-height: 2;
+    width: 529px;
+    display: inline-block;
+}
+
+.skill-text-trading{
+    text-align: left;
+    line-height: 2;
+    width: 565px;
+    display: inline-block;
+}
+
+.hr1{
+    border-top: 9px dotted #FAF7F0 ;
+    background-color: none;
+    border-bottom: hidden;
+    width: 5%;
+    margin-top: 65px;
+    margin-bottom: 12px;
+}
+
+.hr2{
+    border-top: 9px dotted #FAF7F0 ;
+    background-color: none;
+    border-bottom: hidden;
+    width: 5%;
+    margin-top: 65px;
+    margin-bottom: 45px;
+}
+
+.btn{
+    color: #E3B7A0;
+}
+p{
+    color: #FAF7F0;
+}
+
+.contact-me{
+    background-color: #064663;
+    padding-top: 50px;
+    padding-bottom: 75px;
+}
+
+.footer-link{
+    text-decoration: none;
+    margin: 10px 20px;
+}
+
+.footer-link:hover{
+    color: #ffffff;
+}
+
+.copyright{
+    font-size: 0.75rem;
+    padding: 20px 0;
+}
